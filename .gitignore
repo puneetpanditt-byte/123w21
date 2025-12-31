@@ -1,0 +1,8 @@
+*.php
+admin/
+database*.sql
+convert-to-github.php
+debug-upload.php
+simple-upload.php
+.DS_Store
+Thumbs.db

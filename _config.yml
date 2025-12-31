@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - .git/
+  - admin/
+  - database*.sql
+  - *.php
+  - convert-to-github.php
